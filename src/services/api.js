@@ -1,6 +1,6 @@
 // API service for making requests to the backend
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://9lilbvc0q5.execute-api.us-east-1.amazonaws.com/Dev';
+const API_URL = process.env.REACT_APP_API_URL || '*******';//insert your API endpoint
 
 // Helper function for making API requests
 const fetchAPI = async (endpoint, options = {}) => {
