@@ -14,8 +14,8 @@ table = dynamodb.Table('VisitorRequest')
 ses = boto3.client('ses', region_name='us-east-1')
 
 # Constants
-EXPIRATION_HOURS = 72  # Changed from 24 to 72 hours
-SENDER_EMAIL = 'contact@diogomic.me' # Replace with your verified SES email
+EXPIRATION_HOURS = 72  # 72 hours
+SENDER_EMAIL = '*********' # Replace with your verified SES email
 
 def lambda_handler(event, context):
     method = event['requestContext']['http']['method']
