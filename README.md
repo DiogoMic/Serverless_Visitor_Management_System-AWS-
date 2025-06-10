@@ -1,5 +1,8 @@
 # Visitor Management System Frontend
 
+![Screenshot 2025-06-05 at 12 57 25](https://github.com/user-attachments/assets/169db9ba-57c1-49a2-8d3f-d5fd808fd582)
+
+
 This is the frontend for the Visitor Management System, built with React.
 
 ## Features
