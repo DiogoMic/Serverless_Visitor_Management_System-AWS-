@@ -5,6 +5,11 @@
 
 This is the frontend for the Visitor Management System, built with React.
 
+<img width="1735" alt="Screenshot 2025-06-11 at 16 25 47" src="https://github.com/user-attachments/assets/8f2d7a3c-2a2f-4dde-910e-73146a892706" />
+
+<img width="2055" alt="Screenshot 2025-06-11 at 16 25 17" src="https://github.com/user-attachments/assets/32e4c9bd-e9b3-4fe3-ae80-c8db55c2d347" />
+
+
 ## Features
 
 - User authentication (login/register)
