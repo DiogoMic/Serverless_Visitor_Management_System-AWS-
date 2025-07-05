@@ -11,6 +11,8 @@ This is the frontend for the Visitor Management System, built with React.
 
 # Video Demo
 
+https://github.com/DiogoMic/Visitor_Management_System-AWS-/blob/1035b7c70ace73b0a768e6f794cacabede04ad6f/Screen%20Recording%202025-07-04%20at%2016.11.15.mov
+
 
 
 # Features
