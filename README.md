@@ -1,4 +1,4 @@
-# Visitor Management System Frontend
+# Visitor Management System Design
 
 ![Screenshot 2025-06-05 at 12 57 25](https://github.com/user-attachments/assets/169db9ba-57c1-49a2-8d3f-d5fd808fd582)
 
@@ -9,8 +9,11 @@ This is the frontend for the Visitor Management System, built with React.
 
 <img width="2055" alt="Screenshot 2025-06-11 at 16 25 17" src="https://github.com/user-attachments/assets/32e4c9bd-e9b3-4fe3-ae80-c8db55c2d347" />
 
+# Video Demo
 
-## Features
+
+
+# Features
 
 - User authentication (login/register)
 - Dashboard with visitor statistics
@@ -19,14 +22,14 @@ This is the frontend for the Visitor Management System, built with React.
 - Profile management
 - Settings for password reset
 
-## Getting Started
+# Getting Started
 
-### Prerequisites
+# Prerequisites
 
 - Node.js (v14 or higher)
 - npm or yarn
 
-### Installation
+# Installation
 
 1. Install dependencies:
 
@@ -48,7 +51,7 @@ npm start
 
 The application will be available at http://localhost:3000.
 
-## Project Structure
+# Project Structure
 
 - `/src/components/Auth` - Authentication components (Login, Register)
 - `/src/components/Dashboard` - Dashboard components
@@ -56,11 +59,11 @@ The application will be available at http://localhost:3000.
 - `/src/components/Profile` - Profile and Settings components
 - `/src/services` - API and authentication services
 
-## Connecting to Backend
+# Connecting to Backend
 
 Update the API URL in `/src/services/api.js` to point to your AWS API Gateway endpoint.
 
-## Building for Production
+# Building for Production
 
 ```bash
 npm run build
