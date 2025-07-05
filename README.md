@@ -9,10 +9,11 @@ This is the frontend for the Visitor Management System, built with React.
 
 <img width="2055" alt="Screenshot 2025-06-11 at 16 25 17" src="https://github.com/user-attachments/assets/32e4c9bd-e9b3-4fe3-ae80-c8db55c2d347" />
 
-# Video Demo
+<img width="703" alt="Screenshot 2025-07-04 at 16 13 22" src="https://github.com/user-attachments/assets/af4e4552-2b62-48a7-a737-ff2bb522ce58" />
 
-https://github.com/DiogoMic/Visitor_Management_System-AWS-/blob/1035b7c70ace73b0a768e6f794cacabede04ad6f/Screen%20Recording%202025-07-04%20at%2016.11.15.mov
+<img width="599" alt="Screenshot 2025-07-04 at 16 16 27" src="https://github.com/user-attachments/assets/9378e0bf-0761-411b-81df-32a0367d65b5" />
 
+<img width="586" alt="Screenshot 2025-07-04 at 16 17 38" src="https://github.com/user-attachments/assets/470a2057-ca2e-4fa1-ba35-513aa8ce557e" />
 
 
 # Features
